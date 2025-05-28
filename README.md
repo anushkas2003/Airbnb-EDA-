@@ -40,19 +40,3 @@ This project explores Airbnb listing data to uncover trends, pricing insights, a
 - Relationships between reviews and booking success
 - Distribution of listings by location and price
 
----
-
-## 📷 Sample Visualizations
-
-- Bar charts for listings by neighborhood
-- Heatmaps for availability and price distribution
-- Boxplots to analyze pricing outliers
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/airbnb-data-analysis.git
-   cd airbnb-data-analysis
